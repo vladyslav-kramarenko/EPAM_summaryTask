@@ -7,8 +7,8 @@ import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
 public class MailHelper {
-    private static final String USERNAME = "razorvlad1992@gmail.com";
-    private static final String PASSWORD = "!!!zhfpjh1992";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
      
     public static void sendMail(String mail, String subject, String message)
             throws AddressException, MessagingException {
